@@ -2,7 +2,7 @@
 ***
 El presente reporte, tiene como objetivo la descripcion de los datos obtenidos de "The Behavioral Risk Factor Surveillance System (BRFSS)", que viene a ser el sistema de recoleccion de datos sobre salud en estados unidos, realizado por Centers for Disease Control and Prevetion el cual es el organismo que vela por la salud publica a traves de ciencia y analisis de datos.
 
-Para el datalle de la extracción y transformación, revisar el siguiente notebook donde se realizó todo el analisis [Notebook BRFSS](alturas.png)
+Para el datalle de la extracción y transformación, revisar el siguiente notebook donde se realizó todo el analisis [Notebook BRFSS](Behavioral_Risk_Survey.ipynb)
 
 Los datos han sido descargados de la plataforma educativa DataCamp y trabajados en python.
 
